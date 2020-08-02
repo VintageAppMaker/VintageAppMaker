@@ -1,7 +1,12 @@
-My job is Software Developer
-~~~
-1996 => My job started with 🖥️ ( DOS, Turbo C 2.01, Turbo Pascal 6.x)
-2020 => now Working with 📱 (Android, iOS, iOT, etc)
+~~~kotlin
+//1996 => My job started with 🖥️ ( DOS, Turbo C 2.01, Turbo Pascal 6.x)
+//2020 => now Working with 📱 (Android, iOS, iOT, etc)
+fun main (args : Array<String>){
+    val desc = listOf("My job is Software Developer", 
+                     "and", 
+                     "hobby is [Game, Drawing, Writting]")
+    desc.map{msg -> println(msg)}
+}
 ~~~
 
 - [official](https://vintageappmaker.com/)
