@@ -5,7 +5,7 @@
 fun main (args : Array<String>){
     val desc = listOf("My job is Software Developer", 
                      "and", 
-                     "hobby is [Game, Drawing, Writting]")
+                     "hobby is [Game, Drawing, Writing]")
     desc.map{msg -> println(msg)}
 }
 ~~~
