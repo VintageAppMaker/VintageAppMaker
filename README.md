@@ -10,9 +10,9 @@ fun main (args : Array<String>){
 }
 ~~~
 
-- [official](https://vintageappmaker.com/)
-- [Facebook](https://www.facebook.com/VintageAppMaker/)
-- [Tumbler](https://vintageappmaker.tumblr.com/)
-
+- [official](https://vintageappmaker.com/) for Business
+- [Facebook](https://www.facebook.com/VintageAppMaker/) for Programming
+- [Tumbler](https://vintageappmaker.tumblr.com/) for Drwaing
+- [Youtube](https://www.youtube.com/channel/UCBceBltbsm2ckxPOE-5O-0w/videos) for Fighting Game
 
 ![](https://raw.githubusercontent.com/VintageAppMaker/VintageAppMaker/master/intro.gif)
