@@ -14,6 +14,6 @@ fun main (args : Array<String>){
 - [Facebook](https://www.facebook.com/VintageAppMaker/) for Programming
 - [Tumbler](https://vintageappmaker.tumblr.com/) for Drwaing
 - [Youtube](https://www.youtube.com/channel/UCBceBltbsm2ckxPOE-5O-0w/videos) for Fighting Game
-- [Google Play](https://play.google.com/store/apps/developer?id=Vintage+appMaker)
+- [Google Play](https://play.google.com/store/apps/developer?id=Vintage+appMaker) for Android Apps
 
 ![](https://raw.githubusercontent.com/VintageAppMaker/VintageAppMaker/master/intro.gif)
