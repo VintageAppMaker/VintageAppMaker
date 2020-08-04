@@ -13,7 +13,7 @@ fun main (args : Array<String>){
 - [Official site](http://vintageappmaker.com/) for Business
 - [Facebook](https://www.facebook.com/VintageAppMaker/) for Programming
 - [Google Play](https://play.google.com/store/apps/developer?id=Vintage+appMaker) for Android Apps
-- [Tumbler](https://vintageappmaker.tumblr.com/) for Drwing
+- [Tumbler](https://vintageappmaker.tumblr.com/) for Drawing
 - [Youtube](https://www.youtube.com/channel/UCBceBltbsm2ckxPOE-5O-0w/videos) for Fighting Game
 
 ![](https://raw.githubusercontent.com/VintageAppMaker/VintageAppMaker/master/intro.gif)
