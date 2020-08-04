@@ -10,10 +10,10 @@ fun main (args : Array<String>){
 }
 ~~~
 
-- [official site](https://vintageappmaker.com/) for Business
+- [Official site](https://vintageappmaker.com/) for Business
 - [Facebook](https://www.facebook.com/VintageAppMaker/) for Programming
+- [Google Play](https://play.google.com/store/apps/developer?id=Vintage+appMaker) for Android Apps
 - [Tumbler](https://vintageappmaker.tumblr.com/) for Drwaing
 - [Youtube](https://www.youtube.com/channel/UCBceBltbsm2ckxPOE-5O-0w/videos) for Fighting Game
-- [Google Play](https://play.google.com/store/apps/developer?id=Vintage+appMaker) for Android Apps
 
 ![](https://raw.githubusercontent.com/VintageAppMaker/VintageAppMaker/master/intro.gif)
