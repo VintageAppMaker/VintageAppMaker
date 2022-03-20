@@ -14,14 +14,14 @@ fun main (args : Array<String>){
 
 ### Business
 - [Official site](http://vintageappmaker.com/) 
-- [Google Play](https://play.google.com/store/apps/developer?id=Vintage+appMaker) for Android Apps
+- [Google Play](https://play.google.com/store/apps/developer?id=Vintage+appMaker)
 
-### Programming reference
+### Programming reference(blog, SNS)
 - [Youtube](https://www.youtube.com/channel/UCQAo_pP9qcD2pZqd9EhnNLw/videos) 
-- [Facebook](https://www.facebook.com/VintageAppMaker/) for Programming
-
-### Personal 
+- [Facebook](https://www.facebook.com/VintageAppMaker/) 
 - [TiStory](https://vintageappmaker.tistory.com) 
+
+### Personal hobby
 - [Tumbler](https://vintageappmaker.tumblr.com/) 
 
 
