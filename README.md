@@ -26,4 +26,4 @@ fun main (args : Array<String>){
 - [Tumbler](https://vintageappmaker.tumblr.com/) 
 
 
-![](https://raw.githubusercontent.com/VintageAppMaker/VintageAppMaker/master/intro.gif)
+![](https://raw.githubusercontent.com/VintageAppMaker/VintageAppMaker/master/kotlin_playground.gif)
