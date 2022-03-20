@@ -12,12 +12,17 @@ fun main (args : Array<String>){
 }
 ~~~
 
-- [Official site](http://vintageappmaker.com/) for Business
-- [Facebook](https://www.facebook.com/VintageAppMaker/) for Programming
+### for Business
+- [Official site](http://vintageappmaker.com/) 
 - [Google Play](https://play.google.com/store/apps/developer?id=Vintage+appMaker) for Android Apps
+
+### for Programming reference
+- [Youtube](https://www.youtube.com/channel/UCQAo_pP9qcD2pZqd9EhnNLw/videos) 
+- [Facebook](https://www.facebook.com/VintageAppMaker/) for Programming
+
+### for Personal
+- [TiStory](https://vintageappmaker.tistory.com) 
 - [Tumbler](https://vintageappmaker.tumblr.com/) for Drawing
-- [Youtube](https://www.youtube.com/channel/UCBceBltbsm2ckxPOE-5O-0w/videos) for Fighting Game
-- [TiStory](https://vintageappmaker.tistory.com) for Personal
 
 
 ![](https://raw.githubusercontent.com/VintageAppMaker/VintageAppMaker/master/intro.gif)
