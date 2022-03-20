@@ -17,9 +17,10 @@ fun main (args : Array<String>){
 - [Google Play](https://play.google.com/store/apps/developer?id=Vintage+appMaker)
 
 ### Programming reference(blog, SNS)
-- [Youtube](https://www.youtube.com/channel/UCQAo_pP9qcD2pZqd9EhnNLw/videos) 
 - [Facebook](https://www.facebook.com/VintageAppMaker/) 
+- [Youtube](https://www.youtube.com/channel/UCQAo_pP9qcD2pZqd9EhnNLw/videos) 
 - [TiStory](https://vintageappmaker.tistory.com) 
+- [Github blog](https://vintageappmaker.github.io/)
 
 ### Personal hobby
 - [Tumbler](https://vintageappmaker.tumblr.com/) 
