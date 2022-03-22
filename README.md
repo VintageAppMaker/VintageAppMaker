@@ -24,6 +24,6 @@ fun main (args : Array<String>){
 
 ### Personal hobby
 - [Tumbler](https://vintageappmaker.tumblr.com/) 
-
+- [naver](https://blog.naver.com/PostList.naver?blogId=adsloader&from=postList&categoryNo=17&parentCategoryNo=17) 
 
 ![](https://raw.githubusercontent.com/VintageAppMaker/VintageAppMaker/master/kotlin_playground.gif)
