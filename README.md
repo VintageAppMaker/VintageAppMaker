@@ -16,7 +16,7 @@ fun main (args : Array<String>){
 - [Official site](http://vintageappmaker.com/) 
 - [Google Play](https://play.google.com/store/apps/developer?id=Vintage+appMaker)
 
-### Programming reference(blog, SNS)
+### Programming reference
 - [Facebook](https://www.facebook.com/VintageAppMaker/) 
 - [Youtube](https://www.youtube.com/channel/UCQAo_pP9qcD2pZqd9EhnNLw/videos) 
 - [TiStory](https://vintageappmaker.tistory.com) 
