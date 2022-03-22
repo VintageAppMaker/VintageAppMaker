@@ -18,7 +18,6 @@ fun main (args : Array<String>){
 
 ### Programming reference
 - [Facebook](https://www.facebook.com/VintageAppMaker/) 
-- [Youtube](https://www.youtube.com/channel/UCQAo_pP9qcD2pZqd9EhnNLw/videos) 
 - [Github blog](https://vintageappmaker.github.io/)
 
 ### Personal hobby & blog
