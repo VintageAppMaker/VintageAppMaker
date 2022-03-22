@@ -19,11 +19,11 @@ fun main (args : Array<String>){
 ### Programming reference
 - [Facebook](https://www.facebook.com/VintageAppMaker/) 
 - [Youtube](https://www.youtube.com/channel/UCQAo_pP9qcD2pZqd9EhnNLw/videos) 
-- [TiStory](https://vintageappmaker.tistory.com) 
 - [Github blog](https://vintageappmaker.github.io/)
 
-### Personal hobby
+### Personal hobby & blog
 - [Tumbler](https://vintageappmaker.tumblr.com/) 
 - [Naver](https://blog.naver.com/PostList.naver?blogId=adsloader&from=postList&categoryNo=17&parentCategoryNo=17) 
+- [TiStory](https://vintageappmaker.tistory.com) 
 
 ![](https://raw.githubusercontent.com/VintageAppMaker/VintageAppMaker/master/kotlin_playground.gif)
